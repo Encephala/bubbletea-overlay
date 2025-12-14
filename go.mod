@@ -1,4 +1,4 @@
-module github.com/rmhubbert/bubbletea-overlay
+module github.com/Encephala/bubbletea-overlay
 
 go 1.25.4
 
